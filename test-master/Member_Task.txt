@@ -1,0 +1,36 @@
+﻿+ Nguyễn Công Trịnh:
+- Thiết kế giao diện & service (lab, group, grouptest, giao diện câu hỏi (student side))
+- Viết API CRUD (lab, group)
+- Hỗ trợ backend & frontend (semester)
+- Hỗ trợ fix bug
+
++ Võ Minh Tài:
+- Thiết kế giao diện & service (subject, test, testtype)
+- Viết API CRUD (test, testtype)
+- Viết script kiểm tra dữ liệu nhập (test)
+- Hỗ trợ fix bug
+
++ Võ Nguyên Quân
+- Thiết kế giao diện & service (part, semester, grouptest, privilege)
+- Viết API CRUD privilege
+
++ Trần Minh Tuấn
+- Thiết kế giao diện & service (user, usertype, talker, giao diện nhập thông tin (student side))
+- Viết API CRUD (user, usertype, talker)
+- Viết script kiểm tra dữ liệu nhập (user, usertype, talker)
+- Hỗ trợ fix bug
+- Tạo dữ liệu mẫu (câu hỏi Địa lý)
+- Tạo các class model
+
++ Lê Ngọc Thanh
+- Thiết kế giao diện & service (semester)
+- Viết API CRUD (semester)
+- Chỉnh sửa các giao diện cho đồng bộ
+
++ Nguyễn Hoàng Tân
+- Thiết kế giao diện & service (subject, question, part, giao diện modal testdetail)
+- Viết API CRUD (subject, question, part, option, testdetail, grouptest), API random câu hỏi (student side)
+- Viết script kiểm tra dữ liệu nhập (question, part, subject), script điều khiển (student side)
+- Hỗ trợ fix bug
+- Tạo các bảng & ràng buộc DB
+- Tạo các class model
