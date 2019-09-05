@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\bin\Debug\netcoreapp2.2\LeKeHaoFinal.deps.json
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\bin\Debug\netcoreapp2.2\LeKeHaoFinal.runtimeconfig.json
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\bin\Debug\netcoreapp2.2\LeKeHaoFinal.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\bin\Debug\netcoreapp2.2\LeKeHaoFinal.dll
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\bin\Debug\netcoreapp2.2\LeKeHaoFinal.pdb
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.dll
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.pdb
+C:\Users\Admin\Desktop\ISC Quang Trung\LeKeHaoFinal\LeKeHaoFinal\obj\Debug\netcoreapp2.2\LeKeHaoFinal.csprojAssemblyReference.cache
